@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jake Keiper"
-  bio              : "I am the Lead Research Engineer at HAMR Industries, specializing in Computational Electromagnetics and Nanotechnology applied to cutting-edge research and development. Leveraging a strong background in Physics and an M.S. from Penn State University, I drive technical innovation using tools like COMSOL, Ansys HFSS, and MATLAB, resulting in a demonstrated history of successful SBIR/STTR project execution. My focus is translating complex physical principles into tangible results, specifically understanding and optimizing the process-performance relationship across diverse materials and systems. Serving a critical role within a startup environment has honed my business acumen and provided extensive technical and leadership exposure, enabling the rapid movement of research concepts to critical applications."
+  bio              : "I lead the technical execution and strategic development of high-impact research, leveraging expertise in Computational Modeling and Applied Science to develop and translate advanced concepts into viable, performance-driven solutions."
   location         : "Pittsburgh, PA"
   employer         : "HAMR Industries LLC"
   uri              : 
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

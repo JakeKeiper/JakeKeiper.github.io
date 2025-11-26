@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Optical Limiter"
+excerpt: "Development of reusable coating for protecting assests from high energy irradiance. Funded by Army. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
