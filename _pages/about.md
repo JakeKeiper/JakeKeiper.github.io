@@ -32,4 +32,5 @@ Activities and societies:
 * Oral and Poster presentations on undergraduate research at several APS Conferences (2016-2019) 
 
 Major GPA: 4.0/4.0
+
 Overall GPA: 3.953/4.0
